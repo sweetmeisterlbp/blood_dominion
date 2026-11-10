@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593193451843",
+    "project_id": "blood-dominion-d7f41",
+    "storage_bucket": "blood-dominion-d7f41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593193451843:android:226a531fa1871a15156ff6",
+        "android_client_info": {
+          "package_name": "com.example.blood_dominion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1Y2D6Uz3ZGFC9K2xgyK34k5G1cxqVTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
